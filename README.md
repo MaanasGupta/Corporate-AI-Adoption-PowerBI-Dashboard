@@ -31,6 +31,6 @@ This Power BI dashboard provides data-driven insights into how a modern enterpri
 4. **UI/UX Design:** Applied professional design layouts, prioritizing a scannable narrative flow and intuitive filtering.
 
 ## 🚀 How to Run This Project
-1. Download the `AI_Usage_Dashboard.pbix` file from this repository.
+1. Download the `AI Usage in a Company.pbix` file from this repository.
 2. Install [Power BI Desktop](https://powerbi.microsoft.com/).
 3. Open the file to interact with the visual filters and explore the underlying data model.
